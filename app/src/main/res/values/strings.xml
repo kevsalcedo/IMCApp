@@ -4,7 +4,7 @@
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
     <string name="height">Altura</string>
-    <string name="weight">Peso</string>
+    <string name="weight">Peso (Kg)</string>
     <string name="age">Edad</string>
     <string name="calculate">Calcular</string>
     <string name="recalculate">Re-Calcular</string>
